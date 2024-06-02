@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spotify Clone</title>
-</head>
-<body>
-    <h1>Welcome to Spotify Clone</h1>
+
+<h1>Welcome to Spotify Clone</h1>
     <p>Experience the Magic of Music</p>
     <p>Welcome to our ongoing project - Spotify Clone! Dive into the world of musical bliss with our web-based music player, inspired by the iconic Spotify platform. While still a work in progress, our project offers a glimpse into the potential of creating a seamless music streaming experience.</p>
     
@@ -30,6 +23,3 @@
 
 <h2>Status</h2>
     <p>Our project is a work in progress, with new features and improvements being added regularly. While it may not yet offer the full suite of functionalities, we're committed to refining and enhancing the user experience. Join us on this journey as we shape our Spotify Clone into the ultimate music companion!</p>
-
-</body>
-</html>
