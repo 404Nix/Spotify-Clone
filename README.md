@@ -31,7 +31,5 @@
 <h2>Status</h2>
     <p>Our project is a work in progress, with new features and improvements being added regularly. While it may not yet offer the full suite of functionalities, we're committed to refining and enhancing the user experience. Join us on this journey as we shape our Spotify Clone into the ultimate music companion!</p>
 
-<h2>Let's Jam Together!</h2>
-    <p>Embark on a musical adventure with our Spotify Clone. Discover new sounds, relive old favorites, and let the melodies transport you to new heights. Your feedback and support are invaluable as we continue to develop and refine our project. Are you ready to press play?</p>
 </body>
 </html>
