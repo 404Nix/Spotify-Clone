@@ -1,7 +1,4 @@
-
-Of course, let's refine it with better formatting and more appealing links:
-
-🎵 Welcome to Spotify Clone
+#🎵 Welcome to Spotify Clone
 Experience the Magic of Music
 
 Introducing our Spotify Clone project - your gateway to a world of musical bliss! Immerse yourself in the enchanting melodies and rhythms of your favorite tracks, all within a sleek and intuitive web-based music player inspired by the iconic Spotify platform.
