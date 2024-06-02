@@ -10,7 +10,7 @@ Real-time Track Time Display: Stay in tune with the current track time displayed
 Responsive Design: Enjoy a seamless listening experience on any device, whether it's your desktop, tablet, or smartphone.
 
 🎵 Explore the Music
-Ready to explore the world of music? Click (here)[https://404nix.github.io/Spotify-Clone/] to access the live version of our Spotify Clone hosted on GitHub Pages. Although our project is still in development, you can still sample its functionality and provide valuable feedback.
+Ready to explore the world of music? Click [here](https://404nix.github.io/Spotify-Clone/) to access the live version of our Spotify Clone hosted on GitHub Pages. Although our project is still in development, you can still sample its functionality and provide valuable feedback.
 
 🔧 Technologies Used
 Our Spotify Clone is powered by cutting-edge technologies, including:
